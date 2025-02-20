@@ -69,10 +69,11 @@ Video d shows the training performance of 5m_vs_6m in multi-task pre-training. V
 ## Citation
 If you find this work useful, please consider citing:
 ```
-@article{wang2023multi,
-  title={Multi-Task Multi-Agent Shared Layers are Universal Cognition of Multi-Agent Coordination},
-  author={Wang, Jiawei and Zhao, Jian and Cao, Zhengtao and Feng, Ruili and Qin, Rongjun and Yu, Yang},
-  journal={arXiv preprint arXiv:2312.15674},
-  year={2023}
+@article{wang2025learning,
+  title={Learning general multi-agent decision model through multi-task pre-training},
+  author={Wang, Jiawei and Xu, Lele and Sun, Changyin},
+  journal={Neurocomputing},
+  pages={129524},
+  year={2025}
 }
 ```
